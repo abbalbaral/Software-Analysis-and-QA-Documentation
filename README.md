@@ -13,7 +13,7 @@ This collection demonstrates my ability to:
 
 ### 1. **QA Test Case Documentation**
 * [Kavre Guide Booking Test Case](Kavre_Guide_Booking_Test_Case.md)
-* **Skill Demonstrated:** Writing structured, Black-Box Functional Test Cases (the core requirement for a Manual Tester).
+* **Skill Demonstrated:** Writing structured, **Black-Box Functional Test Cases** (the core requirement for a Manual Tester).
 
 ### 2. **Visual Analysis & Design Artifacts**
 These diagrams prove a strong logical foundation for system analysis and design.
@@ -27,9 +27,11 @@ These diagrams prove a strong logical foundation for system analysis and design.
 
 #### Example Diagrams:
 * **System Boundary & Context:**
-    ![Context Diagram Example](Context%20Diagram.jpg)
+    ![Context Diagram Example](images/Context%20Diagram.jpg)
+* **High-Level System Flow (DFD):**
+    ![Level 0 DFD Example](images/Level%200%20DFD.jpg)
 * **Database Structure:**
-    ![ER Diagram Example](ER%20Diagram.jpg)
+    ![ER Diagram Example](images/ER%20Diagram.jpg)
 
 **Note:** The full, comprehensive SAD and SE Reports (which contain detailed explanations and other artifacts) are available upon request.
 
