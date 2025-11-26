@@ -27,11 +27,11 @@ These diagrams prove a strong logical foundation for system analysis and design.
 
 #### Example Diagrams:
 * **System Boundary & Context:**
-    ![Context Diagram Example](images/Context%20Diagram.jpg)
+    ![Context Diagram Example](images/Context_Diagram.jpeg)
 * **High-Level System Flow (DFD):**
-    ![Level 0 DFD Example](images/Level%200%20DFD.jpg)
+    ![Level 0 DFD Example](images/Level_0_DFD.jpeg)
 * **Database Structure:**
-    ![ER Diagram Example](images/ER%20Diagram.jpg)
+    ![ER Diagram Example](images/ER_Diagram.jpeg)
 
 **Note:** The full, comprehensive SAD and SE Reports (which contain detailed explanations and other artifacts) are available upon request.
 
